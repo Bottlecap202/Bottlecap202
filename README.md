@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Bottlecap202
-- 👀 I’m interested in Minecraft plugin development and server hosting.
-- 🌱 I’m currently learning Java development
-- 💞️ I’m looking to collaborate on Server hosting related projects aswell as minecraft plugins.
-- 📫 How to reach me : I am available on discord at ied7011
+- 👀 I’m building AI now.
 - \-Thanks for reaching out-\
 
 <!---
